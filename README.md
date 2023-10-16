@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andryanrifqi
 - 👀 I’m interested in Software QA / QC
-- 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning Postman and JMeter testing tool
+- 💞️ I’m looking to collaborate on anythin
 - 📫 How to reach me, email: andryanrifqi@gmail.com
 
 <!---
